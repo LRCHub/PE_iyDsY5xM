@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一体いつから",
+  "base_artist": "初星学園",
+  "createdAt": "2026-02-21T06:39:12.186830Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一体いつから",
+      "artist": "初星学園, 月村手毬",
+      "has_synced": false,
+      "path": "select/pl_01_一体いつから_初星学園,_月村手毬.txt"
+    }
+  ]
+}
